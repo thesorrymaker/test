@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="LAPTOP-J21C4O0T" name="JunitTestValidator" skipped="0" tests="2" time="0.028" timestamp="2023-05-30T22:00:27">
+  <properties>
+    <property name="java.vendor" value="Amazon.com Inc." />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="build.lib" value="build/snap/WEB-INF/lib" />
+    <property name="build.md5" value="build/md5" />
+    <property name="os.name" value="Windows 10" />
+    <property name="sun.boot.class.path" value="C:\Users\82728\.jdks\corretto-1.8.0_332\jre\lib\resources.jar;C:\Users\82728\.jdks\corretto-1.8.0_332\jre\lib\rt.jar;C:\Users\82728\.jdks\corretto-1.8.0_332\jre\lib\sunrsasign.jar;C:\Users\82728\.jdks\corretto-1.8.0_332\jre\lib\jsse.jar;C:\Users\82728\.jdks\corretto-1.8.0_332\jre\lib\jce.jar;C:\Users\82728\.jdks\corretto-1.8.0_332\jre\lib\charsets.jar;C:\Users\82728\.jdks\corretto-1.8.0_332\jre\lib\jfr.jar;C:\Users\82728\.jdks\corretto-1.8.0_332\jre\classes" />
+    <property name="TODAY" value="May 31 2023" />
+    <property name="user.country.format" value="RU" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Users\82728\Desktop\apache-ant-1.10.13" />
+    <property name="src.web" value="src/main/webapp" />
+    <property name="java.runtime.version" value="1.8.0_332-b08" />
+    <property name="main_class" value="src/main/java/Main" />
+    <property name="user.name" value="82728" />
+    <property name="user.language.format" value="ru" />
+    <property name="build.dir" value="build/" />
+    <property name="src.java" value="src/main/java/" />
+    <property name="user.language" value="zh" />
+    <property name="sun.boot.library.path" value="C:\Users\82728\.jdks\corretto-1.8.0_332\jre\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="lab3" />
+    <property name="DSTAMP" value="20230531" />
+    <property name="java.version" value="1.8.0_332" />
+    <property name="build.report" value="build/test-classes" />
+    <property name="user.timezone" value="" />
+    <property name="buildtime" value="2023-05-31-01:00:23" />
+    <property name="build.inf" value="build/snap/WEB-INF" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="build.doc" value="build/snap/doc" />
+    <property name="java.endorsed.dirs" value="C:\Users\82728\.jdks\corretto-1.8.0_332\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="GBK" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="CN" />
+    <property name="java.home" value="C:\Users\82728\.jdks\corretto-1.8.0_332\jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="C:\Users\82728\Documents\GitHub\web\Lab3\web_lab3-master2\build.xml" />
+    <property name="os.version" value="10.0" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.332-b08" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\Users\82728\Desktop\apache-ant-1.10.13\lib" />
+    <property name="build.rec" value="build/snap/resources" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="sun.stdout.encoding" value="ms936" />
+    <property name="user.script" value="" />
+    <property name="user.home" value="C:\Users\82728" />
+    <property name="build.snap" value="build/snap" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="build.snap_cla" value="build/snap/WEB-INF/classes" />
+    <property name="java.library.path" value="C:\Users\82728\.jdks\corretto-1.8.0_332\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Users\82728\.jdks\corretto-1.8.0_332\bin;C:\Users\82728\Desktop\apache-ant-1.10.13\bin;C:\Users\82728\.jdks\corretto-1.8.0_332;C:\Users\82728\Desktop\wildfly-26.1.3.Final\bin;C:\Users\82728\Desktop\apache-maven-3.9.0\bin;C:\Users\82728\AppData\Local\Microsoft\WindowsApps;C:\Users\82728\AppData\Local\GitHubDesktop\bin;C:\Users\82728\AppData\Roaming\npm;C:\Program Files\Git\cmd;C:\Users\82728\AppData\Local\Microsoft\WindowsApps;C:\Users\82728\AppData\Local\GitHubDesktop\bin;C:\Users\82728\AppData\Roaming\npm;." />
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/" />
+    <property name="java.vm.vendor" value="Amazon.com Inc." />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.launch.Launcher u" />
+    <property name="java.class.path" value="C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-launcher.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-antlr.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-apache-bcel.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-apache-bsf.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-apache-log4j.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-apache-oro.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-apache-regexp.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-apache-resolver.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-apache-xalan2.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-commons-logging.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-commons-net.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-imageio.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-jai.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-jakartamail.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-javamail.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-jdepend.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-jmf.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-jsch.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-junit.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-junit4.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-junitlauncher.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-launcher.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-netrexx.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-swing.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-testutil.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant-xz.jar;C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant.jar;C:\Users\82728\.jdks\corretto-1.8.0_332\lib\tools.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.13 compiled on January 4 2023" />
+    <property name="TSTAMP" value="0100" />
+    <property name="src.hiber" value="src/main/resources" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="src.test" value="src/test/java" />
+    <property name="java.io.tmpdir" value="C:\Users\82728\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-8/issues/" />
+    <property name="ant.file.lab3" value="C:\Users\82728\Documents\GitHub\web\Lab3\web_lab3-master2\build.xml" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="src.lib" value="lib/" />
+    <property name="ant.file.type.lab3" value="file" />
+    <property name="java.ext.dirs" value="C:\Users\82728\.jdks\corretto-1.8.0_332\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\82728\Documents\GitHub\web\Lab3\web_lab3-master2" />
+    <property name="build.cla" value="build/classes" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.security.manager" value="allow" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="basedir" value="C:\Users\82728\Documents\GitHub\web\Lab3\web_lab3-master2" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\Users\82728\Desktop\apache-ant-1.10.13\lib\ant.jar" />
+    <property name="file.encoding" value="GBK" />
+    <property name="sun.stderr.encoding" value="ms936" />
+    <property name="build.str" value="build/snap/structure" />
+    <property name="build.test" value="build/test-classes" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="src.dir" value="src/" />
+    <property name="ant.project.invoked-targets" value="u" />
+    <property name="build.sha" value="build/sha" />
+  </properties>
+  <testcase classname="JunitTestValidator" name="test_validate_range" time="0.001" />
+  <testcase classname="JunitTestValidator" name="test_validate_value" time="0.0" />
+  <system-out><![CDATA[JunitTestValidator started
+Testing test_validate_range...
+Testing test_validate_value...
+JunitTestValidator ended
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
