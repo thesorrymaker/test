@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="helios.cs.ifmo.ru" name="JunitTestValidator" skipped="0" tests="2" time="0.027" timestamp="2023-05-31T01:08:04">
+<testsuite errors="0" failures="0" hostname="helios.cs.ifmo.ru" name="JunitTestValidator" skipped="0" tests="2" time="0.029" timestamp="2023-05-31T01:09:53">
   <properties>
     <property name="ant.library.dir" value="/usr/local/share/java/apache-ant/lib" />
     <property name="ant.file.type" value="file" />
@@ -44,9 +44,9 @@
     <property name="java.specification.name" value="Java Platform API Specification" />
     <property name="src.web" value="src/main/webapp" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
-    <property name="buildtime" value="2023-05-31-04:07:53" />
+    <property name="buildtime" value="2023-05-31-04:09:46" />
     <property name="src.java" value="src/main/java/" />
-    <property name="TSTAMP" value="0407" />
+    <property name="TSTAMP" value="0409" />
     <property name="build.sha" value="build/sha" />
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
     <property name="java.runtime.version" value="17.0.2+8-1" />
@@ -89,7 +89,7 @@
     <property name="src.dir" value="src/" />
     <property name="ant.project.default-target" value="build" />
   </properties>
-  <testcase classname="JunitTestValidator" name="test_validate_range" time="0.0" />
+  <testcase classname="JunitTestValidator" name="test_validate_range" time="0.001" />
   <testcase classname="JunitTestValidator" name="test_validate_value" time="0.0" />
   <system-out><![CDATA[JunitTestValidator started
 Testing test_validate_range...
