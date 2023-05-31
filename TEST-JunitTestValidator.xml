@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="helios.cs.ifmo.ru" name="JunitTestValidator" skipped="0" tests="2" time="0.025" timestamp="2023-05-31T01:25:30">
+<testsuite errors="0" failures="0" hostname="helios.cs.ifmo.ru" name="JunitTestValidator" skipped="0" tests="2" time="0.029" timestamp="2023-05-31T01:26:01">
   <properties>
     <property name="ant.library.dir" value="/usr/local/share/java/apache-ant/lib" />
     <property name="ant.file.type" value="file" />
     <property name="java.specification.version" value="17" />
-    <property name="github.password" value="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" />
-    <property name="ant.project.name" value="lab3" />
     <property name="src.lib" value="lib/" />
+    <property name="ant.project.name" value="lab3" />
     <property name="src.test" value="src/test/java" />
     <property name="sun.jnu.encoding" value="UTF-8" />
     <property name="build.snap" value="build/snap" />
     <property name="java.class.path" value="/usr/local/share/java/apache-ant/lib/ant-launcher.jar:/usr/local/share/java/apache-ant/lib/ant-imageio.jar:/usr/local/share/java/apache-ant/lib/ant-jmf.jar:/usr/local/share/java/apache-ant/lib/ant-commons-net.jar:/usr/local/share/java/apache-ant/lib/ant-junit.jar:/usr/local/share/java/apache-ant/lib/ant-antlr.jar:/usr/local/share/java/apache-ant/lib/ant-commons-logging.jar:/usr/local/share/java/apache-ant/lib/ant-jai.jar:/usr/local/share/java/apache-ant/lib/ant-swing.jar:/usr/local/share/java/apache-ant/lib/ant-jdepend.jar:/usr/local/share/java/apache-ant/lib/ant-apache-bcel.jar:/usr/local/share/java/apache-ant/lib/ant-apache-regexp.jar:/usr/local/share/java/apache-ant/lib/ant-junitlauncher.jar:/usr/local/share/java/apache-ant/lib/ant-javamail.jar:/usr/local/share/java/apache-ant/lib/ant-apache-log4j.jar:/usr/local/share/java/apache-ant/lib/ant-apache-oro.jar:/usr/local/share/java/apache-ant/lib/ant-testutil.jar:/usr/local/share/java/apache-ant/lib/ant-apache-xalan2.jar:/usr/local/share/java/apache-ant/lib/ant-netrexx.jar:/usr/local/share/java/apache-ant/lib/ant-launcher.jar:/usr/local/share/java/apache-ant/lib/ant-apache-bsf.jar:/usr/local/share/java/apache-ant/lib/ant-junit4.jar:/usr/local/share/java/apache-ant/lib/ant.jar:/usr/local/share/java/apache-ant/lib/ant-jsch.jar:/usr/local/share/java/apache-ant/lib/ant-apache-resolver.jar:/usr/local/share/java/apache-ant/lib/ant-xz.jar" />
-    <property name="build.inf" value="build/snap/WEB-INF" />
     <property name="java.vm.vendor" value="OpenJDK BSD Porting Team" />
+    <property name="build.inf" value="build/snap/WEB-INF" />
     <property name="sun.arch.data.model" value="64" />
     <property name="build.report" value="build/test-classes" />
     <property name="src.hiber" value="src/main/resources" />
     <property name="build.md5" value="build/md5" />
     <property name="ant.file.lab3" value="/home/studs/s336178/333/build.xml" />
     <property name="java.vendor.url" value="https://github.com/battleblow/jdk17u/" />
-    <property name="java.vm.specification.version" value="17" />
     <property name="os.name" value="FreeBSD" />
+    <property name="java.vm.specification.version" value="17" />
     <property name="DSTAMP" value="20230531" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
     <property name="user.country" value="RU" />
@@ -35,31 +34,31 @@
     <property name="build.snap_cla" value="build/snap/WEB-INF/classes" />
     <property name="java.version.date" value="2022-01-18" />
     <property name="java.home" value="/usr/local/openjdk17" />
-    <property name="file.separator" value="/" />
     <property name="basedir" value="/home/studs/s336178/333" />
+    <property name="file.separator" value="/" />
     <property name="java.vm.compressedOopsMode" value="Non-zero based" />
     <property name="sun.stdout.encoding" value="UTF-8" />
     <property name="line.separator" value="&#xa;" />
     <property name="ant.java.version" value="17" />
-    <property name="java.specification.name" value="Java Platform API Specification" />
     <property name="src.web" value="src/main/webapp" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
-    <property name="buildtime" value="2023-05-31-04:25:23" />
+    <property name="buildtime" value="2023-05-31-04:25:54" />
     <property name="src.java" value="src/main/java/" />
     <property name="TSTAMP" value="0425" />
     <property name="build.sha" value="build/sha" />
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
     <property name="java.runtime.version" value="17.0.2+8-1" />
-    <property name="user.name" value="s336178" />
     <property name="java.net.preferIPv4Stack" value="true" />
+    <property name="user.name" value="s336178" />
     <property name="ant.file" value="/home/studs/s336178/333/build.xml" />
-    <property name="path.separator" value=":" />
     <property name="main_class" value="src/main/java/Main" />
+    <property name="path.separator" value=":" />
     <property name="os.version" value="13.2-STABLE" />
-    <property name="build.test" value="build/test-classes" />
     <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
-    <property name="ant.project.invoked-targets" value="u" />
+    <property name="build.test" value="build/test-classes" />
     <property name="file.encoding" value="UTF-8" />
+    <property name="ant.project.invoked-targets" value="u" />
     <property name="build.doc" value="build/snap/doc" />
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
     <property name="build.str" value="build/snap/structure" />
@@ -67,9 +66,8 @@
     <property name="build.dir" value="build/" />
     <property name="java.vendor.url.bug" value="https://bugs.freebsd.org/bugzilla/enter_bug.cgi?product=Ports%20%26%20Packages&amp;component=Individual%20Port(s)&amp;short_desc=java/openjdk17%3A%20" />
     <property name="java.io.tmpdir" value="/tmp/" />
-    <property name="github.username" value="827284527@qq.com" />
-    <property name="TODAY" value="May 31 2023" />
     <property name="java.version" value="17.0.2" />
+    <property name="TODAY" value="May 31 2023" />
     <property name="user.dir" value="/home/studs/s336178/333" />
     <property name="os.arch" value="amd64" />
     <property name="build.lib" value="build/snap/WEB-INF/lib" />
@@ -85,8 +83,8 @@
     <property name="java.vm.version" value="17.0.2+8-1" />
     <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
     <property name="java.class.version" value="61.0" />
-    <property name="build.rec" value="build/snap/resources" />
     <property name="src.dir" value="src/" />
+    <property name="build.rec" value="build/snap/resources" />
     <property name="ant.project.default-target" value="build" />
   </properties>
   <testcase classname="JunitTestValidator" name="test_validate_range" time="0.001" />
